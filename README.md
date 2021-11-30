@@ -1,7 +1,7 @@
 # AuthGG-Manager
 Python Auth.GG Manager for managing users, licenses and HWIDs
 
-```css
+```yaml
 Python Version Used: Python 3.8.9
   
   Requirements:
