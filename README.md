@@ -7,4 +7,4 @@ Python Auth.GG Manager for managing users, licenses and HWIDs
 ```
 
 # Main Screen
-![alt text](https://github.com/irxv/AuthGG-Manager/unknown.png?raw=true)
+![Screenshot](unknown.png)
