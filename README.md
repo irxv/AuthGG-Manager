@@ -12,10 +12,13 @@ Python Version Used: Python 3.8.9
 ```
 
 ```Main Screen```
+
 ![Screenshot](pictures/unknown.png)
 
 ```Users Screen```
+
 ![Screenshot](pictures/users.png)
 
 ```License Screen```
+
 ![Screenshot](pictures/licenses.png)
