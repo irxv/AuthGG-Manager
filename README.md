@@ -11,3 +11,6 @@ Python Auth.GG Manager for managing users, licenses and HWIDs
 
 # Users Screen
 ![Screenshot](users.png)
+
+# License Screen
+![Screenshot](licenses.png)
