@@ -12,10 +12,10 @@ Python Version Used: Python 3.8.9
 ```
 
 # Main Screen
-![Screenshot](unknown.png)
+![Screenshot](pictures/unknown.png)
 
 # Users Screen
-![Screenshot](users.png)
+![Screenshot](pictures/users.png)
 
 # License Screen
-![Screenshot](licenses.png)
+![Screenshot](pictures/licenses.png)
