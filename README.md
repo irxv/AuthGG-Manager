@@ -11,11 +11,11 @@ Python Version Used: Python 3.8.9
     python main.py
 ```
 
-`Main Screen`
+```Main Screen```
 ![Screenshot](pictures/unknown.png)
 
-`Users Screen`
+```Users Screen```
 ![Screenshot](pictures/users.png)
 
-`License Screen`
+```License Screen```
 ![Screenshot](pictures/licenses.png)
