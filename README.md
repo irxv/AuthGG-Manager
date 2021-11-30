@@ -2,6 +2,11 @@
 Python Auth.GG Manager for managing users, licenses and HWIDs
 
 ```
+  Python Version Used: Python 3.8.9
+  
+  Requirements:
+    pip install requests
+  
   How to run:
     python main.py
 ```
