@@ -22,3 +22,7 @@ Python Version Used: Python 3.8.9
 ```License Screen```
 
 ![Screenshot](pictures/licenses.png)
+
+```HWID Screen```
+
+![Screenshot](pictures/hwid.png)
